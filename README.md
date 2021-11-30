@@ -1,7 +1,7 @@
 # Welcome To My Profile!👋
 ## Here's My Stats
-![NuviN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NuviN96&count_private=true&show_icons=true&title_color=000000&text_color=FFFFFF&border_color=000000&border_radius=25&icon_color=FFFF00&bg_color=60,00FFFF,FF00FF)
-![NuviN's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NUVIN96&show_icons=true&title_color=000000&text_color=FFFFFF&border_color=000000&border_radius=25&icon_color=FFFF00&bg_color=120,00FFFF,FF00FF)
+![NuviN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NuviN96&count_private=true&show_icons=true&title_color=000000&text_color=FFFFFF&border_color=000000&border_radius=25&icon_color=FFFF00&bg_color=30,00FFFF,FF00FF)
+[![NuviN's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NUVIN96&langs_count=10&show_icons=true&title_color=000000&text_color=FFFFFF&border_color=000000&border_radius=25&icon_color=FFFF00&bg_color=30,00FFFF,FF00FF)](https://github.com/NuviN96/WT-LAB)
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NuviN96&repo=RepoName)](https://github.com/anuraghazra/github-readme-stats) -->
 # Things I Have Used
 ## Languages
