@@ -2,7 +2,7 @@
 ## Here's My Stats
 ![NuviN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NuviN96&count_private=true&show_icons=true&title_color=FF00FF&text_color=00FFFF&border_color=000000&border_radius=25&icon_color=FFFF00&bg_color=000000)
 [![NuviN's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NUVIN96&langs_count=10&show_icons=true&title_color=FF00FF&text_color=00FFFF&border_color=000000&border_radius=25&icon_color=FFFF00&bg_color=000000)](https://github.com/NuviN96/NuviN96)
-[![NuviN's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NuviN96&repo=RepoName)](https://github.com/NuviN96/NuviN96)
+[![NuviN's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NuviN96&repo=RepoNametitle_color=FF00FF&text_color=00FFFF&border_color=000000&border_radius=25&icon_color=FFFF00&bg_color=000000)](https://github.com/NuviN96/NuviN96)
 # Things I Have Used
 ## Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
